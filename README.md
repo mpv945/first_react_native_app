@@ -1,4 +1,4 @@
-# first_react_native_app
+# first_react_native_app （抓包说明：https://juejin.im/post/5ae73a4ff265da0b71560e7a）
   第一个React-native项目,[官网学习说明](https://reactnative.cn/docs/getting-started/)
 # 搭建步骤
 ## 环境要求 Node, Python2, JDK（好像没有装Python2也能初步启动成功）注意 Node 的版本必须高于 8.3，Python 的版本必须为 2.x（不支持 3.x），而 JDK 的版本必须是 1.8（目前不支持 1.9 及更高版本
